@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mlpsharp", "mlpsharp.csproj", "{DD022E4E-AF7B-4574-A114-A9F41FDDC93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD022E4E-AF7B-4574-A114-A9F41FDDC93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD022E4E-AF7B-4574-A114-A9F41FDDC93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD022E4E-AF7B-4574-A114-A9F41FDDC93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD022E4E-AF7B-4574-A114-A9F41FDDC93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
