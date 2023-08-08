@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "dnQS5BGP74ZD7NH9U3VMnaXpv+q+oGI3196l9y6UbHxyIfUwjmP7peCsIQhkaEUzA7VJpRfkaLmXvMLj/FjZZg==",
+  "dgSpecHash": "pijhKbkaGwi8O2CTVCGR33KHbNqK9JI13XXQDgO0TuUqUYwrKuKlP4r96lF1fVlbqwk5diWgjXdHMvhwZbdoVQ==",
   "success": true,
   "projectFilePath": "/Users/georgiisirotenko/RiderProjects/mlpsharp/mlpsharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/georgiisirotenko/.nuget/packages/magick.net-q16-anycpu/13.2.0/magick.net-q16-anycpu.13.2.0.nupkg.sha512",
+    "/Users/georgiisirotenko/.nuget/packages/magick.net.core/13.2.0/magick.net.core.13.2.0.nupkg.sha512",
+    "/Users/georgiisirotenko/.nuget/packages/matthiware.commandlineparser/0.7.0/matthiware.commandlineparser.0.7.0.nupkg.sha512",
+    "/Users/georgiisirotenko/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/georgiisirotenko/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/georgiisirotenko/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/georgiisirotenko/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
